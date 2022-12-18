@@ -1,0 +1,11 @@
+.container{
+  width: 100%;
+  max-width: 1366px;
+  margin: 0 auto;
+}
+
+.divider{
+  margin-bottom: 16px;
+  margin-left: 16px;
+  text-align: left;
+}

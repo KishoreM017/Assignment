@@ -1,0 +1,25 @@
+.sql-form-container{
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.form-element{
+    width: 400px;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.text-area{
+    margin: 10px 16px;
+    width: 90%;
+    height: 100px;
+    outline: none;
+    resize: none;
+
+}
+
+.submit-button{
+    margin-left: 16px;
+    cursor: pointer;
+}
